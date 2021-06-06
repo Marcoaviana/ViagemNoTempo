@@ -1,0 +1,37 @@
+*{
+    font-family: 'Open Sans', sans-serif !important;
+}
+body{
+    background-color:#ececec !important;
+}
+.container{
+    background-color: #fff;
+}
+iframe{
+    width:100% !important;
+}
+.banner{
+    height: 30vh;
+    background-color:#046c8b;
+    padding: 25px;
+}
+.banner h1{
+    color:#fff !important;
+    text-align: center;
+    margin-top:25px;
+}
+/* .banner h1{
+    margin
+} */
+
+img{
+    max-width: 100% !important;
+    height: 300px !important;
+}
+
+h1{
+    color:#046c8b;
+}
+.border-bottom{
+    border-bottom:3px solid #ccc;
+}
